@@ -22,4 +22,6 @@ the jre installer that I also provided in the link below
 
 https://www.dropbox.com/scl/fi/vfzop31qrkfij414ythbx/jre-8u92-windows-i586.exe?rlkey=7w6qstw4simk628lgtv5i7knd&dl=0
 
+*on the dropbox repo in the above link just click on the DOWNLOAD button since the repository do not provide preview for .exe files.
+
 
