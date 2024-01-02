@@ -8,7 +8,7 @@ JAR files manifest file (MANIFEST.MF).
 
 
 To distribute this project, zip up the dist folder (including the lib folder)
-and distribute the ZIP file(ECDCS.jar), or you can click the link below to download the zip file.
+and distribute the ZIP file, or you can click the link below to download the zip file(ECDCS.rar).
 
 https://www.dropbox.com/scl/fi/z8q78mdx67orxyzrkn43f/ECDCS.rar?rlkey=cyvsfkoe9ookyrrktpyn9bvas&dl=0
 
